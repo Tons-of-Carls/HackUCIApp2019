@@ -1,0 +1,32 @@
+.form-container {
+    background-color: #e7e7e7;
+    width: 50vw;
+    min-width: 300px;
+    min-height: 400px;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.form-container>*{
+    margin-bottom: 10px;
+}
+
+.header-text{
+    color: #bb8ce5;
+    text-align: center;
+}
+
+.char-cap-valid{
+    color: gray;
+}
+
+.char-cap-invalid{
+    color: red;
+}
+
+.submit-button{
+    background-color: #d3a1ff;
+    border: #d3a1ff solid 0px;
+}
+
